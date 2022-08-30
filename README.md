@@ -1,7 +1,7 @@
 Newsletter-Signup
 
 <div>
-  <label>Desktop View</label>
+  <label>Desktop View</label><br>
   <img src ="./logo.png" alt="pic_LOGO" />
 <div>
 
