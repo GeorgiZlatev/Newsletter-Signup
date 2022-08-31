@@ -55,10 +55,10 @@ const request = https.request(url, options, function(response) {
 });
 
 // API key
-// 9a1aff4cfa8417967d524e9097de044f-us12
+// 
 
 // List ID
-// 7a829711e0
+//
 
 app.listen(3000, function(){
   console.log("Server started on port 3000");
